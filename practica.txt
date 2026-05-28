@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Heidy Marcela Rojas Parra
+Curso:  Open Sourc
+Fecha:  28/05/2026
+
+Estoy aprendiendo a usar control de versiones.
